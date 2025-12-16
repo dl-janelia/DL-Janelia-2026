@@ -1,7 +1,7 @@
-# AI@MBL 2025 Exercises
+# DL@Janelia 2026 Exercises
 
-This repository contains the exercises for the "Artificial Intelligence for Microscopy
-Image Analysis" 2025 course at the MBL in Woods Hole.
+This repository contains the exercises for the "Deep Learning for Microscopy
+Image Analysis" 2026 bootcamp course at HHMI Janelia.
 
 This is a "super repository", containing the actual exercise repositories as
 git submodules. To see the exercises, run the following after cloning this
@@ -19,7 +19,7 @@ exercise, type
 git pull
 git submodule update --init <path>
 ```
-where `<path>` is the name of the exercise (e.g., `02_intro_dl`).
+where `<path>` is the name of the exercise (e.g., `01_intro_dl`).
 
 ## Instructions
 
