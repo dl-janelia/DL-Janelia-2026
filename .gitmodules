@@ -3,7 +3,7 @@
 	url = https://github.com/ai-mbl/boot
 [submodule "01_intro_dl"]
 	path = 01_intro_dl
-	url = https://github.com/ai-mbl/intro_dl
+	url = https://github.com/dl-janelia/intro_dl
 [submodule "02_unet"]
 	path = 02_unet
 	url = https://github.com/ai-mbl/unet
